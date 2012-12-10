@@ -1,0 +1,96 @@
+select, input, textarea {
+    font-size           : 1em;
+}
+body {
+    font-size           : 70%;
+}
+
+#container {
+    height              : 600px;
+    width               : 998px;
+    z-index             : 10;
+    position            : relative;
+    top                 : -600px;
+}
+
+h2 {
+    margin-top          : 1.2em;
+    margin-bottom       : 0;
+    padding             : 0;
+    border-bottom       : 1px dotted #dedede;
+}
+h3 {
+    margin-top          : 1.2em;
+    margin-bottom       : 0;
+    padding             : 0;
+}
+
+.example {
+    border              : 1px solid #CCC;
+    background          : #f2f2f2;
+    padding             : 10px;
+}
+
+ul.ad-thumb-list {
+    list-style-image    : url(../images/list-style.gif);
+    margin              : 0 10%;
+}
+pre {
+    font-family         : "Lucida Console", "Courier New", Verdana;
+    border              : 1px solid #CCC;
+    background          : #f2f2f2;
+    padding             : 10px;
+}
+code {
+    font-family         : "Lucida Console", "Courier New", Verdana;
+    margin              : 0;
+    padding             : 0;
+}
+
+#gallery {
+    padding             : 30px;
+    z-index             : 100; 
+}
+
+#descriptions {
+    position            : relative;
+    height              : 50px;
+    background          : #eee;
+    margin-top          : 10px;
+    /*width               : 640px;*/
+    padding             : 10px;
+    overflow            : hidden;
+}
+.ad-image-description {
+    font-size           : 10pt;
+    width               : 50% !important;
+    height              : 300px;
+}
+
+.ad-image-img {
+    width               : 400px; 
+}
+
+#descriptions .ad-image-description .ad-description-title {
+    display             : block;
+}
+.ad-description-title {
+    font-size           : 24pt;
+}
+.ad-image-description span {
+    font-size           : 14pt;   
+}
+
+#backgroundGray {
+    /*background          : url("../images/bg_content.png") no-repeat left bottom;*/
+    background-color    : gainsboro; 
+    z-index             : -1;
+    /*opacity             : 0.2;*/
+    height              : 600px;
+    width               : 998px;
+}
+
+.footer {
+    position            : relative;
+    top                 : -590px;
+}

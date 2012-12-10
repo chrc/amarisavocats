@@ -1,0 +1,100 @@
+[
+  {
+    "id"          : 4,
+    "name"        : "DUPLESSIS",
+    "firstname"   : "Michel",
+    "function"    : "Avocat",
+    "description" : "Droit des Affaires et des soci&eacute;t&eacute;s<br />
+                     Droit Fiscal - Droit Immobilier",
+    "email"       : "",
+    "image"       : "equipe/michelDuplessis.nb.png",
+    "thumb"       : "equipe/thumbs/michelDuplessis.thumb.png"
+  },
+  {
+    "id"          : 7,
+    "name"        : "LAHNAIT",
+    "firstname"   : "Malika",
+    "function"    : "Avocat",
+    "description" : "Droit des affaires<br /> 
+                    Sp&eacute;cialis&eacute;e tourisme et a&eacute;rien",
+    "image"       : "equipe/malikaLahnait.nb.png",
+    "thumb"       : "equipe/thumbs/malikaLahnait.thumb.png"
+  },
+  {
+    "id"          : 1,
+    "name"        : "TEMINE",
+    "firstname"   : "Marc",
+    "function"    : "Avocat",
+    "description" : "Droit des Affaires et des soci&eacute;t&eacute;s<br />
+                    Fusions & Acquisitions<br />
+                    Rapprochement d&apos;entreprises<br />
+                    Droit Immobilier - Restructuration<br />
+                    Audit juridique et fiscal - Management de projets",
+    "email"       : "m.temine@amarisconseils.com",
+    "image"       : "equipe/marcTemine.nb.png",
+    "thumb"       : "equipe/thumbs/marcTemine.thumb.png"
+  },
+  {
+    "id"          : 9,
+    "name"        : "LEFEBVRE",
+    "firstname"   : "Yolande",
+    "function"    : "Assistante juridique",
+    "image"       : "equipe/yolandeLefebvre.nb.png",
+    "thumb"       : "equipe/thumbs/yolandeLefebvre.thumb.png"
+  },
+  {
+    "id"          : 6,
+    "name"        : "PAULET",
+    "firstname"   : "Christine",
+    "function"    : "Avocat",
+    "description" : "Droit des Affaires<br />
+                     Contentieux commercial",
+    "email"       : "",
+    "image"       : "equipe/christinePaulet.nb.png",
+    "thumb"       : "equipe/thumbs/christinePaulet.thumb.png"
+  },
+  {
+    "id"          : 5,
+    "name"        : "LETELLIER",
+    "firstname"   : "Jean-Baptiste",
+    "function"    : "Avocat",
+    "description" : "Droit des affaires<br />
+                     Transactions immobili&egrave;res<br />
+                     Droit social",
+    "image"       : "equipe/jeanBaptisteLetellier.nb.png",
+    "thumb"       : "equipe/thumbs/jeanBaptisteLetellier.thumb.png"
+  },
+  {
+    "id"          : 2,
+    "name"        : "ANDR&Eacute;",
+    "firstname"   : "Nadia",
+    "function"    : "Juriste",
+    "description" : "Droit des soci&eacute;t&eacute;s de Droit Immobilier<br />
+                     Gestion juridique et immobili&egrave;re<br />
+                     Audit juridique et immobilier<br />
+                     Cession / Acquisition de fonds de commerce",
+    "email"       : "n.andre@amarisconseils.com",
+    "image"       : "equipe/nadiaAndre.nb.png",
+    "thumb"       : "equipe/thumbs/nadiaAndre.thumb.png"
+  },
+  {
+    "id"          : 3,
+    "name"        : "CHARPENTIER",
+    "firstname"   : "Georges-Henri",
+    "function"    : "Avocat",
+    "description" : "Droit des Affaires - Droit de la Concurrence et de la Distribution<br />
+                     Contentieux Commercial<br />
+                     Droit Social - Droit de l'Urbanisme et de la Construction",
+    "email"       : "gh.charpentier@amarisconseils.com",
+    "image"       : "equipe/georgesHenriCharpentier.nb.png",
+    "thumb"       : "equipe/thumbs/georgesHenriCharpentier.thumb.png"
+  },
+  {
+    "id"          : 8,
+    "name"        : "ZIBI",
+    "firstname"   : "Chantal",
+    "function"    : "Assitante juridique",
+    "image"       : "equipe/chantalZibi.nb.png",
+    "thumb"       : "equipe/thumbs/chantalZibi.thumb.png"
+  }
+]

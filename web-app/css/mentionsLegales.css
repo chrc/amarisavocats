@@ -1,0 +1,51 @@
+body {
+    font-size           : 70%;
+}
+
+#container {
+    background          : url("../images/bg_content.png") no-repeat scroll left bottom transparent;
+    height              : 650px;
+    width               : 998px;
+    font-family         : arial;
+    font-size           : 9pt;
+}
+
+#page-body {
+    background-color    : transparent;
+}
+
+#container p {
+    padding             : 0px 30px 10px 30px;
+    text-align          : justify;
+}
+
+#container h1 {
+    color               : dimgray;
+    font-weight         : bold;
+    padding             : 10px 0px 5px 30px;
+    margin              : 0;
+}
+
+#container h2 {
+    color               : gray;
+    font-weight         : bold;
+    padding             : 6px 0px 3px 30px;
+    font-size           : 9.5pt;
+}
+
+#container ul {
+    margin              : 0px 10px 0px 30px; 
+    list-style-type     : decimal;
+    list-style-position : inside;
+}
+
+#container ul li {
+    color               : dimgray;
+    padding-top         : 10px;
+    font-weight         : bold;
+    font-style          : italic;
+    font-size           : 10pt;
+}
+
+
+

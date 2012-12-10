@@ -1,0 +1,59 @@
+body {
+    font-size           : 70%;
+}
+
+#container {
+    background          : url("../images/bg_content.png") no-repeat scroll left bottom transparent;
+    height              : 620px;
+    width               : 998px;
+    font-family         : arial;
+    font-size           : 9pt;
+}
+
+#page-body {
+    background-color    : transparent;
+}
+
+#container h1 {
+    color               : gray;
+    font-size           : 20pt;
+    font-weight         : bold;
+    padding             : 20px 0px 15px 50px;
+    margin              : 0;
+}
+
+#container h2 {
+    color               : gray;
+    font-weight         : bold;
+    padding             : 0px 0px 5px 70px;
+    font-size           : 30pt;
+    font-family         : "Century Schoolbook L"; 
+    font-style          : italic;
+}
+
+#container h3 {
+    color               : gray;
+    font-weight         : bold;
+    text-align          : center;
+    font-size           : 14pt;
+    font-family         : "Century Schoolbook L"; 
+    font-style          : italic;
+    margin-bottom       : 20px; 
+}
+
+#container p {
+    padding             : 10px 70px;
+    text-align          : justify;
+    font-size           : 13pt;
+    font-family         : "Century Schoolbook L"; 
+    font-style          : italic;
+}
+
+.image-gauche {
+    float               : left;
+    margin              : 10px 10px 0px 0px; 
+}
+.image-droite {
+    float               : right;
+    margin              : 0px 0px 10px 10px;
+}

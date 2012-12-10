@@ -1,0 +1,54 @@
+body {
+    font-size           : 70%;
+}
+
+#container {
+    background 			: url("../images/bg_content.png") no-repeat scroll left bottom transparent;
+    height 				: 600px;
+    width 				: 998px;
+}
+
+#page-body {
+    background-color 	: transparent;
+}
+
+#container p {
+	padding 			: 0px 30px;
+    text-align 			: justify;
+    font-size           : 12pt;
+}
+
+#container h2 {
+	color 				: #B4B4B4;
+    font-size 			: 21pt;
+    font-weight 		: bold;
+    padding 			: 30px 0px 5px 50px;
+}
+
+#container h3 {
+    color               : #333333;
+    font-size           : 12pt;
+    font-weight         : normal;     
+    padding-left        : 40px;
+}
+
+#container h4 {
+    color               : #333333;
+    font-size           : 12pt;
+    font-weight         : normal;     
+    padding-left        : 50px;
+}
+
+#container ul {
+    color               : #333333;
+    font-weight         : normal;     
+    padding-left        : 100px;
+    margin              : 5px 70px 20px 0px; 
+    font-size           : 13pt;
+    font-family         : "Century Schoolbook L"; 
+    font-style          : italic;
+}
+#container ul li {
+    margin              : 30px 0px 10px 0px;
+    text-align          : justify;   
+}

@@ -1,0 +1,28 @@
+body {
+    font-size           : 70%;
+}
+
+#container {
+    background 			: url("../images/bg_content.png") no-repeat scroll left bottom transparent;
+    height 				: 600px;
+    width 				: 998px;
+}
+
+#page-body {
+    background-color 	: transparent;
+}
+
+#container p {
+	padding 			: 0px 70px;
+    text-align 			: justify;
+    font-size           : 13pt;
+    font-family         : "Century Schoolbook L";
+    font-style          : italic;
+}
+
+#container h2 {
+	color 				: #B4B4B4;
+    font-size 			: 24pt;
+    font-weight 		: bold;
+    padding 			: 15px 0px 20px 50px;
+}

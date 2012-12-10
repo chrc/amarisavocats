@@ -1,0 +1,68 @@
+[
+	{
+		"image"			: "1.jpg",
+		"thumb"			: "thumbs/t1.jpg",
+		"title"			: "A title for 1.jpg",
+		"description"	: "This is a nice, and incredibly descriptive, description of the image 1.jpg.<br />Ceci est une nouvell ligne."
+	},
+	{
+		"image"			: "10.jpg",
+ 		"thumb"			: "thumbs/t10.jpg",
+ 		"title"			: "A title for 10.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 10.jpg"
+ 	},
+ 	{
+		"image"			: "11.jpg",
+ 		"thumb"			: "thumbs/t11.jpg",
+ 		"title"			: "A title for 11.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 11.jpg"
+ 	},
+ 	{
+		"image"			: "12.jpg",
+ 		"thumb"			: "thumbs/t12.jpg",
+ 		"title"			: "A title for 12.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 12.jpg"
+ 	},
+ 	{
+		"image"			: "13.jpg",
+ 		"thumb"			: "thumbs/t13.jpg",
+ 		"title"			: "A title for 13.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 13.jpg"
+ 	},
+	{
+		"image"			: "14.jpg",
+ 		"thumb"			: "thumbs/t14.jpg",
+ 		"title"			: "A title for 14.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 14.jpg"
+ 	},
+ 	{
+		"image"			: "2.jpg",
+ 		"thumb"			: "thumbs/t2.jpg",
+ 		"title"			: "A title for 2.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 2.jpg"
+ 	},
+ 	{
+		"image"			: "3.jpg",
+ 		"thumb"			: "thumbs/t3.jpg",
+ 		"title"			: "A title for 3.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 3.jpg"
+ 	},
+ 	{
+		"image"			: "4.jpg",
+ 		"thumb"			: "thumbs/t4.jpg",
+ 		"title"			: "A title for 4.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 4.jpg"
+ 	},
+ 	{
+		"image"			: "5.jpg",
+ 		"thumb"			: "thumbs/t5.jpg",
+ 		"title"			: "A title for 5.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 5.jpg"
+ 	},
+ 	{
+		"image"			: "6.jpg",
+ 		"thumb"			: "thumbs/t6.jpg",
+ 		"title"			: "A title for 6.jpg",
+ 		"description"	: "This is a nice, and incredibly descriptive, description of the image 6.jpg"
+ 	}
+] 	

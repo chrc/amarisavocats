@@ -1,0 +1,20 @@
+ 
+div.red-band {
+	background   : url(../images/under-construct.gif) no-repeat transparent;
+	position     : absolute;
+	width        : 800px; /* la taille de ta div en pixels */
+	height       : 500px;
+	left         : 50%; /* tout le temps */
+	margin-left  : -400px; /* la taille de ta div divisée par 2 */
+}
+
+.red-band h1 {
+  font          : bold 42px Myriad Pro;
+  color         : blue;
+  width         : 800px;
+  height        : 380px;
+  margin        : 0;
+  padding       : 15% 0 0 0;
+  text-align    : center;
+  overflow      : hidden;
+}

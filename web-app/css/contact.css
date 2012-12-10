@@ -1,0 +1,138 @@
+
+select, input, textarea {
+    font-size           : 1em;
+}
+body {
+    font-size           : 70%;
+}
+
+#page-body {
+    background          : url("../images/bg_content.png") no-repeat scroll left bottom transparent;
+    height              : 620px;
+    width               : 998px;
+    font-family         : arial;
+}
+
+#page-body h1 {
+    margin              : 0;
+    color               : #B4B4B4;
+    font-size           : 2.5em;
+    font-weight         : bold;
+    text-transform      : uppercase;
+    padding             : 10px 0px 0px 30px;
+}
+
+#container {
+    padding             : 5px 30px 0px 30px;
+}
+#container h2 {
+    font-weight         : bold;
+    color               : #666666;
+    font-size           : 10pt;
+}
+#container iframe {
+    margin-top          : 10px;    
+    width               : 530px;
+    height              : 420px;
+    border              : 1px solid gray;
+}
+
+#contact {
+    width               : 380px;
+    float               : right;
+}
+
+#contact p {
+    font-size           : 11pt;
+    font-style          : italic;
+    text-align          : justify;
+}
+
+#contact ul {
+    list-style-type     : none;
+    padding             : 0;
+}
+#contact li {
+    line-height         : 1.7;
+    margin              : 0 0 2px;
+    padding             : 0;
+}
+
+#contact label {
+    color               : #666666;
+    display             : block;
+    float               : left;
+    font-size           : 11pt; 
+    font-weight         : bold;
+    padding             : 0;
+    width               : 200px;
+    cursor              : normal !important; 
+}
+
+#contact input, #contact textarea {
+    background          : none repeat scroll 0 0 #F7F7F7;
+    border              : 1px solid #CCCCCC;
+    color               : #666666;
+    font-family         : "Lucida Sans Unicode",Verdana,Arial,Helvetica,sans-serif;
+    font-size           : 10pt;
+    margin              : 0px 0px 5px;
+    outline             : medium none;
+    padding             : 6px;
+    width               : 96%;
+}
+#contact input.submit {
+    background          : none repeat scroll 0 0 #B4B4B4;
+    border              : medium none;
+    color               : #FFFFFF;
+    cursor              : pointer;
+    display             : block;
+    font-size           : 11px;
+    font-weight         : bold;
+    height              : 33px;
+    margin              : 0;
+    outline             : medium none;
+    padding             : 2px 10px 4px;
+    text-transform      : uppercase;
+    width               : auto;
+    letter-spacing      : 0.2em;
+}
+
+#plan {
+    width               : 540px;
+    font-size           : 9pt;
+    line-height         : 1.5em;
+}
+
+#transports {
+    float               : right;
+    font-size           : 8pt;
+    line-height         : 1.3em;
+}
+#transports ul {
+    list-style-position : inside;
+    margin-right        : 10px;
+    font-weight         : bold;
+}
+#transports ul li {
+    padding-left        : 10px;
+    font-weight         : normal;
+}
+
+label.captcha {
+    margin              : 0px 20px 0px 0px; 
+    font-size           : 10pt !important; 
+}
+
+#captcha {
+    width               : 100px !important;
+    font-size           : 14pt !important;
+    position            : relative;
+    top                 : -25px; 
+}
+
+#sendMessage {
+    margin-top          : 15px !important; 
+}
+
+
+
