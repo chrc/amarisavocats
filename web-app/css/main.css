@@ -573,7 +573,7 @@ a.skip {
 	text-decoration		: none;
 }
 .footer a:hover {
-	text-decoration: underline;
+	color 				: #C8B7B7;
 }
 .footer li {
 	display 			: inline;
@@ -593,4 +593,8 @@ body {
 
 #page-body {
 	background-color	: white;
+}
+
+.footer {
+	margin-top 			: 5px;
 }

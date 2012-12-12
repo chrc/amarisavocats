@@ -6,11 +6,14 @@ body {
 }
 
 #container {
+    background          : url("../images/bg_content.2.png") repeat-y scroll left top transparent;
     height              : 600px;
     width               : 998px;
     z-index             : 10;
+    /*
     position            : relative;
     top                 : -600px;
+    */
 }
 
 h2 {
@@ -90,7 +93,3 @@ code {
     width               : 998px;
 }
 
-.footer {
-    position            : relative;
-    top                 : -590px;
-}

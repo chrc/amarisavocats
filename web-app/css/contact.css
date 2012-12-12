@@ -6,7 +6,7 @@ body {
 }
 
 #page-body {
-    background          : url("../images/bg_content.png") no-repeat scroll left bottom transparent;
+    background          : url("../images/bg_content.2.png") repeat-y scroll left top transparent;
     height              : 620px;
     width               : 998px;
     font-family         : arial;

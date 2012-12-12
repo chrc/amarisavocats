@@ -26,16 +26,24 @@
 		</div>
 
 		<div id="menu">
-			<nav:render/>
+			<nav:render />
     	</div>
 
-		<g:layoutBody/>
+		<g:layoutBody />
 
 		<div class="footer" role="contentinfo">
 			<ul>
 				<li><g:message code="mentions.copyright" /></li>
+				<li><g:message code="article.contact.adresse" /></li>
+				<li>
+					<a href="mailto:<g:message code="article.contact.mel" />">
+						<g:message code="article.contact.mel" />
+					</a>
+				</li>
 				<li>
 					<g:link controller="mentionsLegales"><g:message code="mentions.title" /></g:link>
+					|
+					<g:link controller="credits"><g:message code="credits.title" /></g:link>
 				</li>
 			</ul>
 		</div>

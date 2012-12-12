@@ -8,8 +8,7 @@
     <r:require modules = 'ad_gallery' />
 	</head>
 
-	<body> 
-    <div id="backgroundGray"></div>       
+	<body>     
     <div id="container">
       <div id="gallery" class="ad-gallery">
         <div class="ad-image-wrapper"></div>

@@ -3,7 +3,7 @@ body {
 }
 
 #container {
-    background 			: url("../images/bg_content.png") no-repeat scroll left bottom transparent;
+    background 			: url("../images/bg_content.2.png") repeat-y scroll left top transparent;
     height 				: 1150px;
     width 				: 998px;
 }
