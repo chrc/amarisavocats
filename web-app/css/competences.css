@@ -50,3 +50,12 @@ body {
     padding-left        : 150px;
     margin              : 5px 0px 20px 0px; 
 }
+.image-droite {
+    float               : right;
+    margin              : 0px 100px 10px 0px;
+}
+
+.image-droite2 {
+    float               : right;
+    margin              : -100px 100px 10px 0px;
+}

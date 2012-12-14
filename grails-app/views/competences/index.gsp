@@ -14,6 +14,7 @@
 
 				<h4><g:message code="article.competences.a" /></h4>
 				<ul>
+					<img src="${resource(dir: 'images', file: 'photos/facade.png')}" class="image-droite" />
 					<g:each var="index" in="${1..9}">
 						<li><g:message code="article.competences.a.${index}" /></li>
 					</g:each>
@@ -24,7 +25,9 @@
 						<li><g:message code="article.competences.b.${index}" /></li>
 					</g:each>
 				</ul>
+				<img src="${resource(dir: 'images', file: 'photos/moquette.png')}" class="image-droite2" />
 				<h4><g:message code="article.competences.c" /></h4>
+
 				<ul>
 					<g:each var="index" in="${1..3}">
 						<li><g:message code="article.competences.c.${index}" /></li>
