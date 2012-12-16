@@ -54,4 +54,11 @@ body {
     text-align          : justify;   
 }
 
-/* One comment for heroku push */
+.image-droite {
+    float               : right;
+    margin              : 0px 0px 0px 10px;
+}
+.image-gauche {
+    float               : left;
+    margin              : 0px 30px 0px -15px; 
+}
