@@ -28,11 +28,6 @@ body {
 	width 	: 998px;
 }
 
-#amarisLogo {
-	z-index	: 100; 
-	padding : 15px 0px 0px 15px;	
-}
-
 /* replace with .no-boxshadow body if you have modernizr available */
 .ie6 body,
 .ie7 body,
@@ -597,4 +592,32 @@ body {
 
 .footer {
 	margin-top 			: 5px;
+}
+
+#amarisLogo {
+	z-index				: 100; 
+	margin 				: 0px 15px;
+	padding-left 		: 20px; 
+	/*background 			: url(../images/photos/bkg.accueil.plafond.png) right top no-repeat transparent;*/
+	height 				: 120px;
+}
+#logo {
+	font-family 		: "Century Schoolbook L";
+	font-size 			: 21pt; 
+	font-style			: italic;
+	margin 				: 0px;
+	color  				: #C8B7B7;
+}
+#logoGauche {
+	font-size 			: 70pt;
+    font-weight			: bold;
+    float				: left; 
+    margin 				: 0;
+    padding 			: 0; 
+}
+#logoDroite {
+   	width 				: 10px;
+   	display				: inline-block;
+   	padding-top  		: 20px;
+   	line-height 		: .8em; 
 }

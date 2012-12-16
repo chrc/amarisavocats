@@ -101,5 +101,6 @@ Just change the color-values to apply your own color-scheme.
 
 #menu {
     font-family     : "Helvetica Neue",Helvetica,Arial,sans-serif;
-    padding-right   : 15px; 
+    padding-right   : 15px;
+    height          : 50px;
 }

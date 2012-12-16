@@ -22,7 +22,10 @@
 	
 	<body>
 		<div id="amarisLogo" role="banner">
-			<img src="${resource(dir: 'images', file: 'logo/amarisAvocats.logo.3.png')}" alt="Amaris Avocats" />
+			<div id="logo">
+				<div id="logoGauche">A</div>
+				<div id="logoDroite">maris vocats</div>
+			</div>	
 		</div>
 
 		<div id="menu">

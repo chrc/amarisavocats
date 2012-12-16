@@ -62,3 +62,10 @@ body {
     float               : left;
     margin              : 0px 30px 0px -15px; 
 }
+#amarisLogo {
+    z-index             : 100; 
+    margin              : 0px 15px;
+    padding-left        : 20px; 
+    background          : url(../images/photos/bkg.conditions.png) right top no-repeat transparent;*/
+    height              : 120px;
+}

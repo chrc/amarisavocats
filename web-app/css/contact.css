@@ -133,4 +133,10 @@ label.captcha {
     margin-top          : 15px !important; 
 }
 
-/* One comment for heroku push */
+#amarisLogo {
+    z-index             : 100; 
+    margin              : 0px 15px;
+    padding-left        : 20px; 
+    background          : url(../images/photos/bkg.contact.touches.png) right top no-repeat transparent;*/
+    height              : 120px;
+}
