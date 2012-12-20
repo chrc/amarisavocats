@@ -48,7 +48,7 @@ class ContactController {
 
                 mailService.sendMail {
                     from  pCmd.useremail
-                    to "chrcharles67@gmail.com"
+                    to "chrcharles67@gmail.com" //contact@amarisconseils.com
                     subject "Formulaire contact du site"
                     text pCmd.usermessage
                 }
