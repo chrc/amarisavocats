@@ -3,6 +3,7 @@
 	<head>
 		<meta name="layout" content="main"/>
 		<title>Amaris Avocats Contact</title>
+		<!-- <r:require modules="jquery-validation-ui" /> -->
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'contact.css')}" type="text/css">		
 	</head>
 	<body>        
