@@ -61,6 +61,8 @@ grails.hibernate.cache.queries = true
 
 grails.validateable.classes = [com.amaris.ContactUserCommand]
 
+grails.views.javascript.library="jquery"
+
 // set per-environment serverURL stem for creating absolute links
 environments {
     development {

@@ -39,7 +39,7 @@ grails.project.dependency.resolution = {
 
     plugins {
         runtime ":hibernate:$grailsVersion"
-        runtime ":jquery:1.7.1"
+        runtime ":jquery:1.8.0"
         runtime ":resources:1.1.6"
         compile ":jquery-validation-ui:1.4"
         compile ":cache-headers:1.1.5"

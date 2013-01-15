@@ -5,6 +5,7 @@
 		<title>Amaris Avocats &Eacute;quipe</title>
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'jquery.ad-gallery.css')}" type="text/css">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'equipe.css')}" type="text/css">		
+    <g:javascript library="jquery" plugin="jquery"/>
     <r:require modules = 'ad_gallery' />
 	</head>
 
