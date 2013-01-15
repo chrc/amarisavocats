@@ -1,0 +1,2 @@
+livraison history:
+	20130115 	: disparition des fichiers jquery sur page équipe
