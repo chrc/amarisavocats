@@ -15,6 +15,7 @@
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'main.css')}" type="text/css">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'mobile.css')}" type="text/css">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'navigation.css')}" type="text/css">
+		<link rel="author" href="humans.txt" />
 		<g:layoutHead/>
         <r:layoutResources />
         <nav:resources override="true" />
@@ -55,10 +56,7 @@
 		<g:javascript library="application"/>
         <r:layoutResources />
 
-        
-		// Google analytics
 		<script type="text/javascript">
-
   			var _gaq = _gaq || [];
   			_gaq.push(['_setAccount', 'UA-38318613-1']);
   			_gaq.push(['_trackPageview']);
@@ -68,7 +66,6 @@
     			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   			})();
-
 		</script>
 
 	</body>

@@ -1,0 +1,28 @@
+/*
+     _    __  __    _    ____  ___ ____       ___     _____   ____    _  _____ ____  
+    / \  |  \/  |  / \  |  _ \|_ _/ ___|     / \ \   / / _ \ / ___|  / \|_   _/ ___| 
+   / _ \ | |\/| | / _ \ | |_) || |\___ \    / _ \ \ / / | | | |     / _ \ | | \___ \ 
+  / ___ \| |  | |/ ___ \|  _ < | | ___) |  / ___ \ V /| |_| | |___ / ___ \| |  ___) |
+ /_/   \_\_|  |_/_/   \_\_| \_\___|____/  /_/   \_\_/  \___/ \____/_/   \_\_| |____/ 
+
+*/ 
+                                                                                     
+
+/* TEAM */
+Architect, Web designer, Developer: Christophe CHARLES
+Contact: chrcharles67 [at] gmail.com
+URL: http://chrcharles.com
+Twitter: @chrcharles
+From: Paris, France
+
+/* SITE */
+Site name: Amaris Avocats
+Site URL: http://www.amarisavocats.com
+Contact: contact [at] amarisconseils.com
+Location: Paris, France
+Standards: HTML5, CSS3, Javascript
+Components: jQuery
+Software: git, GitHub, vim, gimp
+ASCII art: http://ascii.mastervb.net/
+Last update: 2013/04/08
+  

@@ -675,6 +675,10 @@
         */
         img.addClass('ad-image-img');
 
+        // @version 20130408: Add alt attribute with the title (Fistname + name)
+        var titleLess = image.title.substring(0, image.title.indexOf('<br'));
+        img.attr('alt', titleLess);
+
         //img_container.css({width: size.width +'px', height: size.height +'px'});
         img_container.css({width: '100%', height: size.height +'px'});
 

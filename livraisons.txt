@@ -1,2 +1,6 @@
 livraison history:
-	20130115 	: disparition des fichiers jquery sur page équipe
+	20130115 	: Disparition des fichiers jquery sur page équipe.
+	20130408 	: Ajout dans les tags img de l'attribut atl="Nom Prénom", dans la page Equipe.
+				  Modification dde la fonction js/jquery.ad-gallery.js#_showWhenLoaded().
+				  Suppression du commentaire // Google analytics dans main.gsp.
+				  Ajout humans.txt
