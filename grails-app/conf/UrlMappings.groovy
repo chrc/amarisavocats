@@ -1,5 +1,7 @@
 class UrlMappings {
 
+	static excludes = ["/humans.txt"]
+
 	static mappings = {
 		"/$controller/$action?/$id?"{
 			constraints {
